@@ -202,10 +202,10 @@ GROUP BY shift
 ORDER BY total_orders DESC;
 
 --END OF PROJECT
-
-Remove duplicate SQL file
-
  
 
  
+
+ 
+
 
